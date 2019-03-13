@@ -57,7 +57,6 @@ let animator = Animator(presentation: presentation)
 animator.prepare(presentedViewController: viewController)
 
 ```
-<img src="https://github.com/SebastianBoldt/Jelly/blob/feature/2.0.0/Github/update.png?raw=true" width="400">
 
 Jelly 2.0 also provides a new feature called *LIVE UPDATE*. 
 Using Jellys  new `Live Update API` it is now possible to update the `alignment`, `size`, `margin-guards` and `corner radius` when the viewcontroller is already visible.
